@@ -1,0 +1,75 @@
+
+@media only screen and  (max-width:1180px){
+    .list ul{
+   flex-direction: column; 
+   margin: auto;
+   
+ 
+    }
+
+    .nav{
+        flex-direction: column;
+        height: 350px;
+      
+    }
+
+    .background{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-left{
+        flex-direction: column;
+        margin: auto;
+        width: 70px;
+    }
+
+    .imm{
+        margin: auto;
+    }
+
+    .list{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .sss {
+        width: 92px;
+    }
+
+    .btnn{
+        /* margin-left: 1px; */
+        margin-top: 6px;
+    }
+
+
+  .barger{
+    display: block;
+  }
+     .nav-h{
+        height: 40px;
+        /* transition: all 0.7s ease-out; */
+        transition: all 0.7s ease-in-out;
+     }
+
+     .v-class{
+        opacity: 0;
+     }
+
+     .intro-tag{
+        display: flex;
+        flex-direction: column;
+     /* height: 100%; */
+     }
+
+     .birdimm{
+        width: 100%;
+        margin: auto;
+        margin-top: 40px;
+     }
+
+     .top-intro{
+        height: none;
+     }
+
+}
